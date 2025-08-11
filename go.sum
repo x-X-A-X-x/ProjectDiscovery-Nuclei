@@ -767,8 +767,8 @@ github.com/projectdiscovery/cdncheck v1.1.26 h1:R6JxzU3ptGNrzzvS261xHWssDt9GlOCW
 github.com/projectdiscovery/cdncheck v1.1.26/go.mod h1:dFEGsG0qAJY0AaRr2N1BY0OtZiTxS4kYeT5+OkF8t1U=
 github.com/projectdiscovery/clistats v0.1.1 h1:8mwbdbwTU4aT88TJvwIzTpiNeow3XnAB72JIg66c8wE=
 github.com/projectdiscovery/clistats v0.1.1/go.mod h1:4LtTC9Oy//RiuT1+76MfTg8Hqs7FQp1JIGBM3nHK6a0=
-github.com/projectdiscovery/dsl v0.5.0 h1:3HHY14FNmdwWXq3pi9dd8JjUHQzskZjLD/pZKVx5Vi4=
-github.com/projectdiscovery/dsl v0.5.0/go.mod h1:Fr+zIQJfMNy+RTj5KFgozfvDaiQQEKMyrKXl75aGgxY=
+github.com/projectdiscovery/dsl v0.5.1 h1:Nm6ToWtNKrhrF880qWykbub60Lw4m96ZkB43OGOsVLg=
+github.com/projectdiscovery/dsl v0.5.1/go.mod h1:m+tLImvmlEnFTuwb0Bm3DqCL6e7sWOunJyxFi27AduI=
 github.com/projectdiscovery/fastdialer v0.4.1 h1:kp6Q0odo0VZ0vZIGOn+q9aLgBSk6uYoD1MsjCAH8+h4=
 github.com/projectdiscovery/fastdialer v0.4.1/go.mod h1:875Wlggf0JAz+fDIPwUQeeBqEF6nJA71XVrjuTZCV7I=
 github.com/projectdiscovery/fasttemplate v0.0.2 h1:h2cISk5xDhlJEinlBQS6RRx0vOlOirB2y3Yu4PJzpiA=
@@ -823,8 +823,8 @@ github.com/projectdiscovery/uncover v1.1.0 h1:UDp/qLZn78YZb6VPoOrfyP1vz+ojEx8VrT
 github.com/projectdiscovery/uncover v1.1.0/go.mod h1:2rXINmMe/lmVAt2jn9CpAOs9An57/JEeLZobY3Z9kUs=
 github.com/projectdiscovery/useragent v0.0.101 h1:8A+XOJ/nIH+WqW8ogLxJ/psemGp8ATQ2/GuKroJ/81E=
 github.com/projectdiscovery/useragent v0.0.101/go.mod h1:RGoRw1BQ/lJnhYMbMpEKjyAAgCaDCr/+GsULo5yEJ2I=
-github.com/projectdiscovery/utils v0.4.21 h1:yAothTUSF6NwZ9yoC4iGe5gSBrovqKR9JwwW3msxk3Q=
-github.com/projectdiscovery/utils v0.4.21/go.mod h1:HJuJFqjB6EmVaDl0ilFPKvLoMaX2GyE6Il2TqKXNs8I=
+github.com/projectdiscovery/utils v0.4.22 h1:OO3FU2uX967sQxu5JtpdBZNzOevvKHAhWqkoTGl+C0A=
+github.com/projectdiscovery/utils v0.4.22/go.mod h1:3l84gpCwL9KG1/ZmslOBABCrk84CcpGWJZfR8wZysR4=
 github.com/projectdiscovery/wappalyzergo v0.2.36 h1:g/E2gatdYcmLKk9R81vrkq4RdpACpYgN1fuyY3041eE=
 github.com/projectdiscovery/wappalyzergo v0.2.36/go.mod h1:L4P6SZuaEgEE2eXbpf4OnSGxjWj9vn6xM15SD78niLA=
 github.com/projectdiscovery/yamldoc-go v1.0.6 h1:GCEdIRlQjDux28xTXKszM7n3jlMf152d5nqVpVoetas=
